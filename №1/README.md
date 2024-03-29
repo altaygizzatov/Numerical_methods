@@ -9,7 +9,7 @@ $\Phi(0, t) = 0$
 $\begin{equation*}
 \Phi(x, 0) = 
  \begin{cases}
-   0 &\text{$x \in [0, 4)$}\\
-   1 &\text{$x \in (4, 10]$}
+   0 &\text{x \in [0, 4)}\\
+   1 &\text{x \in (4, 10]}
  \end{cases}
 \end{equation*}$
