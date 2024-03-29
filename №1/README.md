@@ -2,7 +2,7 @@
 ## Уравнение переноса
   $$\frac{\partial \Phi}{\partial t} + V \frac{\partial \Phi}{\partial x} = 0$$
   
-  $$ V = 2.5\frac{m}{sec} $$
+  $$ V = 2.5 $$
 ## Граниченые условия
   $$\Phi(10, t) = 1$$
   
