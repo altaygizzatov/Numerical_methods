@@ -1,17 +1,17 @@
-# Численное решение уравнения переноса
-## Уравнение переноса
-  $$\frac{\partial \Phi}{\partial t} + V \frac{\partial \Phi}{\partial x} = 0$$
+# Численное решение уравнения диффузии
+## Уравнение диффузии
+  $$\frac{\partial \Phi}{\partial t} = D \frac{\partial^2 \Phi}{\partial^2 x}$$
   
-  $$ V = 2.5 $$
+  $$ D = 1 $$
 ## Граниченые условия
-  $$\Phi(10, t) = 1$$
+  $$\Phi(10, t) = 5$$
   
   $$\Phi(0, t) = 0$$
 ## Начальные условия
 $$
 \Phi(x, 0)=
 \begin{cases}
-0 & \quad x \in [0, 4)\\ 
-1 & \quad x \in [4, 10)
+0 & \quad x \in [0, 5)\\ 
+5 & \quad x \in [5, 10)
 \end{cases}
 $$
