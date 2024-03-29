@@ -3,7 +3,7 @@
   $$\frac{\partial \Phi}{\partial t} = D \frac{\partial^2 \Phi}{\partial^2 x}$$
   
   $$ D = 1 $$
-## Граниченые условия
+## Граничные условия
   $$\Phi(10, t) = 5$$
   
   $$\Phi(0, t) = 0$$
