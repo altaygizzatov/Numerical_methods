@@ -1,7 +1,7 @@
 
 # Численное решение уравнения диффузии
 ## Уравнение диффузии
-  $$\frac{\partial \Phi}{\partial t} = D \frac{\partial^2 \Phi}{\partial^2 x}$$
+  $$\frac{\partial \Phi}{\partial t} = D \frac{\partial^2 \Phi}{\partial x^2}$$
   
   $$ x \in [0, 10]$$
   
